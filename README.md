@@ -16,6 +16,10 @@ tags: ["guides", "browser extensions", "video downloads"]
 
 # How to Download Circle Videos for Free Chrome Browser Extension Method
 
+<a href="https://www.youtube.com/watch?v=EcEWGobXAQU" target="_blank">
+<img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-circle-videos-for-free-chrome-extension-method.jpg" width="700px">
+</a>
+
 
 Circle Downloader is a browser extension for saving authorized videos from Circle community, course, and academy pages.
 
@@ -29,9 +33,7 @@ Circle Downloader detects supported video resources on Circle pages and lets you
 
 Verified repository:
 
-```text
-https://github.com/serpapps/circle-downloader
-```
+[serpapps/circle-downloader](https://github.com/serpapps/circle-downloader)
 
 ## Before You Start
 
